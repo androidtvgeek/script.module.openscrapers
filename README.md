@@ -13,9 +13,9 @@ thank all devs that have contributed to multiple projects over time.
 You can add the source directory to your own repository for convenience and updates
 ```
 <dir>
-    <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repo/master/addons.xml</info>
-    <checksum>https://raw.githubusercontent.com/a4k-openproject/repo/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repo/master/</datadir>
+    <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.addons4kodi/master/zips/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.addons4kodi/master/zips/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.addons4kodi/master/zips/</datadir>
 </dir>
 ```
 # How to Import Open Scrapers Into Any Addon
